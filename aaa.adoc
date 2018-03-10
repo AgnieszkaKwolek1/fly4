@@ -9,3 +9,4 @@ y87y 78 78u8 u
 ## rozdział
 
 . https://asciidoctor.org/docs/user-manual/#paragraph[to są akapity]
+. http://gist.asciidoctor.org/?github-leszekwitucki%2Ffly4%2F%2Faaa.adoc[ładniejsza wesja]
