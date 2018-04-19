@@ -1,3 +1,23 @@
+
+
+= Document Title
+
+:sectnums!:
+
+== Colophon Section
+
+== Another Colophon Section
+
+== Last Colophon Section
+
+:sectnums:
+
+== Section One
+
+== Section Two
+
+== Section Three
+
 # tytuł
 
 rtnsrtnsrd gfj
